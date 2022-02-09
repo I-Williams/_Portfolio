@@ -11,4 +11,4 @@ https://portfolio-i.netlify.app/
 
 
 ### Author
-I Williams
+Iyanu Williams
