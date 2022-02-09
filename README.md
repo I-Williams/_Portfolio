@@ -7,8 +7,7 @@ A portfolio site made using HTML, CSS, and JavaScript.
 https://portfolio-i.netlify.app/
 
 ## Preview
-![portfolio](https://user-images.githubusercontent.com/57849511/153111446-b7de74c9-1a9d-4c04-8886-da090961cce3.png)
-
+![project_01](https://user-images.githubusercontent.com/57849511/153196847-03437639-48af-4f90-b218-47a0e317a436.png)
 
 ### Author
 Iyanu Williams
